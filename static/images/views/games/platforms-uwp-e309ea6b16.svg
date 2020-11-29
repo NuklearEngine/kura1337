@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="14" height="14" viewBox="0, 0, 14, 14">
+  <g id="Page-1">
+    <path d="M2,0 L12,0 C13.105,0 14,0.895 14,2 L14,12 C14,13.105 13.105,14 12,14 L2,14 C0.895,14 0,13.105 0,12 L0,2 C0,0.895 0.895,0 2,0 z M2.004,6.667 L6,6.667 L6,2.873 L2,3.416 L2.004,6.667 z M6.667,2.776 L6.667,6.667 L11.999,6.667 L11.999,2 L6.667,2.776 z M12,7.333 L6.667,7.333 L6.667,11.25 L11.999,12 L12,7.333 z M6,11.165 L6,7.333 L2.003,7.333 L2.003,10.617 L6,11.165 z" fill="#FFFFFF" id="Combined-Shape"/>
+  </g>
+</svg>

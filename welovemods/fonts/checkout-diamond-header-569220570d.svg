@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="394" height="167" viewBox="0, 0, 394, 167" preserveAspectRatio="none">
+  <g id="UI" opacity="0.9">
+    <g id="Group-15">
+      <g id="Group-14">
+        <path d="M-7.344,21.251 L397.488,6.062 L394.025,99.727 L-4.243,56.96 z" fill="#FFD775" id="bg" opacity="0.9"/>
+        <g id="bg">
+          <path d="M-4.199,49.154 L395.574,36 L395.574,165.656 L-0.326,165.656 z" fill="#3E2F84" fill-opacity="0.9" id="path-1"/>
+          <path d="M-4.199,49.154 L395.574,36 L395.574,165.656 L-0.326,165.656 z" fill="#834BFF" fill-opacity="0.4" id="path-1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
